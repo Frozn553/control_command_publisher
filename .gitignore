@@ -1,0 +1,13 @@
+gnore build and log directories
+build/
+log/
+install/
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore other unnecessary files
+*.swp
+.DS_Store
