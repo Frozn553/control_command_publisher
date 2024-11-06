@@ -1,0 +1,3 @@
+[console_scripts]
+control_cmd_publisher = control_cmd_publisher.control_cmd_publisher:main
+
