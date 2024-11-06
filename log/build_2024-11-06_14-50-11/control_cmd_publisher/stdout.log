@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating control_cmd_publisher.egg-info
+writing control_cmd_publisher.egg-info/PKG-INFO
+writing dependency_links to control_cmd_publisher.egg-info/dependency_links.txt
+writing entry points to control_cmd_publisher.egg-info/entry_points.txt
+writing requirements to control_cmd_publisher.egg-info/requires.txt
+writing top-level names to control_cmd_publisher.egg-info/top_level.txt
+writing manifest file 'control_cmd_publisher.egg-info/SOURCES.txt'
+reading manifest file 'control_cmd_publisher.egg-info/SOURCES.txt'
+writing manifest file 'control_cmd_publisher.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/frozn/control_cmd_publisher/install/control_cmd_publisher/lib/python3.10/site-packages/control-cmd-publisher.egg-link (link to .)
+Installing control_cmd_publisher script to /home/frozn/control_cmd_publisher/install/control_cmd_publisher/lib/control_cmd_publisher
+
+Installed /home/frozn/control_cmd_publisher/build/control_cmd_publisher
+running symlink_data
+creating /home/frozn/control_cmd_publisher/install/control_cmd_publisher/share/ament_index
+creating /home/frozn/control_cmd_publisher/install/control_cmd_publisher/share/ament_index/resource_index
+creating /home/frozn/control_cmd_publisher/install/control_cmd_publisher/share/ament_index/resource_index/packages
+symbolically linking /home/frozn/control_cmd_publisher/build/control_cmd_publisher/resource/control_cmd_publisher -> /home/frozn/control_cmd_publisher/install/control_cmd_publisher/share/ament_index/resource_index/packages
+symbolically linking /home/frozn/control_cmd_publisher/build/control_cmd_publisher/package.xml -> /home/frozn/control_cmd_publisher/install/control_cmd_publisher/share/control_cmd_publisher
