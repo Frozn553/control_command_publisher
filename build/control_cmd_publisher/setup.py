@@ -1,1 +1,0 @@
-/home/frozn/control_cmd_publisher/setup.py
