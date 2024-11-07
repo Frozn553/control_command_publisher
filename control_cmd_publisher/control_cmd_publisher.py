@@ -71,7 +71,7 @@ def main(args=None):
         angular_velocity_list = [0.8727, 0.8727, 0]  # rad/s
         time_list = [0, 5, 10]  # s
     else:
-        print("Please choose scenario1, scenario2, 或 scenario3。")
+        print("Please choose scenario1, scenario2, or scenario3。")
         return
 
     control_cmd_publisher = ControlCmdPublisher(speed_list, angular_velocity_list, time_list, wheelbase, publish_rate)
